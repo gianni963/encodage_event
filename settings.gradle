@@ -1,0 +1,2 @@
+rootProject.name = "encodage_evenement"
+include ':app'
